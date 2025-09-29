@@ -1,7 +1,7 @@
 # Anton Shubin — ML/DL Engineer (Generative AI)
 
 **Email:** antshubin023@gmail.com<br>
-**Links:** [LinkedIn](https://www.linkedin.com/in/anton...), [Telegram](https://t.me/...)
+**Links:** [LinkedIn](https://www.linkedin.com/in/anton-shubin-6034ab211/), [Telegram](https://t.me/shubin_023)
 
 ## Featured work
 | Project | What it is | Stack | Proof |
